@@ -1,0 +1,15 @@
+C:\Users\vemal\source\repos\MyFirstWpf\MyFirstWpf\bin\Debug\MyFirstWpf.exe.config
+C:\Users\vemal\source\repos\MyFirstWpf\MyFirstWpf\bin\Debug\MyFirstWpf.exe
+C:\Users\vemal\source\repos\MyFirstWpf\MyFirstWpf\bin\Debug\MyFirstWpf.pdb
+C:\Users\vemal\source\repos\MyFirstWpf\MyFirstWpf\obj\Debug\MyFirstWpf.csprojAssemblyReference.cache
+C:\Users\vemal\source\repos\MyFirstWpf\MyFirstWpf\obj\Debug\MainWindow.g.cs
+C:\Users\vemal\source\repos\MyFirstWpf\MyFirstWpf\obj\Debug\App.g.cs
+C:\Users\vemal\source\repos\MyFirstWpf\MyFirstWpf\obj\Debug\MyFirstWpf_MarkupCompile.cache
+C:\Users\vemal\source\repos\MyFirstWpf\MyFirstWpf\obj\Debug\MyFirstWpf_MarkupCompile.lref
+C:\Users\vemal\source\repos\MyFirstWpf\MyFirstWpf\obj\Debug\MainWindow.baml
+C:\Users\vemal\source\repos\MyFirstWpf\MyFirstWpf\obj\Debug\MyFirstWpf.g.resources
+C:\Users\vemal\source\repos\MyFirstWpf\MyFirstWpf\obj\Debug\MyFirstWpf.Properties.Resources.resources
+C:\Users\vemal\source\repos\MyFirstWpf\MyFirstWpf\obj\Debug\MyFirstWpf.csproj.GenerateResource.cache
+C:\Users\vemal\source\repos\MyFirstWpf\MyFirstWpf\obj\Debug\MyFirstWpf.csproj.CoreCompileInputs.cache
+C:\Users\vemal\source\repos\MyFirstWpf\MyFirstWpf\obj\Debug\MyFirstWpf.exe
+C:\Users\vemal\source\repos\MyFirstWpf\MyFirstWpf\obj\Debug\MyFirstWpf.pdb
